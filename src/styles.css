@@ -1,0 +1,7 @@
+body {
+    background-image: linear-gradient(to right, rgba(253, 255, 255, 0.89),rgba(255, 255, 255, 0.89)), url(src/assets/images/logo.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
