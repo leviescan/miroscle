@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100;1,100;1,200&family=Carattere&family=Courgette&family=Fleur+De+Leah&family=Herr+Von+Muellerhoff&family=Italianno&family=Meie+Script&family=Niconne&family=Parisienne&family=Petemoss&family=Praise&family=Sail&family=Style+Script&display=swap');
+
+
 body {
     background-image: linear-gradient(to right, rgba(253, 255, 255, 0.89),rgba(255, 255, 255, 0.89)), url(src/assets/images/logo.jpeg);
     background-position: center;
